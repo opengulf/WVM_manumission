@@ -4,6 +4,7 @@ This repo contains four word vector models trained using the [WordVectors](https
 
 The corpus was created in March 2024 using the Text Titan super model in Transkribus. 
 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Name of model | n-gram | dimensions | iterations | window | Negative samples | Total training tokens |
 | HTR997K1g150d20i6w5ns.bin | 1 | 150 | 20 | 6 | 5 | 914596 |
 | HTR997K2g150d20i6w5ns.bin |  2 |  150 | 20  |  6 |  5 | 857994 |  
